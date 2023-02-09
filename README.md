@@ -88,5 +88,12 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=peyalrhmn&theme=nightowl&hide_border=true)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=peyalrhmn&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=peyalrhmn&layout=compact&theme=vision-friendly-dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+
+<h1 align="center">
+  Thank you for visiting!
+  <img src="https://media.giphy.com/media/2fPig3PMSsZqIbq0Tc/giphy.gif" width="30px"/>
+</h1>
+
+![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder&theme=onedark)
 
