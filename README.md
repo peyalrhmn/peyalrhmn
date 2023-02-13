@@ -92,7 +92,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 <h1 align="center">
   Thank you for visiting!
-  <img src="https://media.giphy.com/media/2fPig3PMSsZqIbq0Tc/giphy.gif" width="30px"/>
+  <img src="https://media.giphy.com/media/2fPig3PMSsZqIbq0Tc/giphy.gif" width="45px"/>
 </h1>
 
 ![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder&theme=onedark)
