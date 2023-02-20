@@ -88,6 +88,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=peyalrhmn&theme=nightowl&hide_border=true)](https://git.io/streak-stats)
 
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=peyalrhmn)
+
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=peyalrhmn&layout=compact&theme=vision-friendly-dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)-->
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=peyalrhmn&theme=highcontrast&show_icons=true&count_private=true)
