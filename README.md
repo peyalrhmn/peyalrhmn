@@ -50,7 +50,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 - :hammer_and_wrench: I’m currently working as an Associate Software Engineer and contributing to frontend and backend for building web applications.
 
-- :bar_chart: My research interest includes ML, DL, NLP and Image Processing.
+- :bar_chart: My research interest includes ML, DL, NLP, Data Analysis and Image Processing.
 
 - :test_tube: My recent research articles: [![IEEE Badge](https://img.shields.io/badge/-Articles-yellow?style=flat&logo=IEEE&logoColor=white)](https://ieeexplore.ieee.org/document/9965629)
 
